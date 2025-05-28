@@ -12,7 +12,7 @@ public class test{
         //成長後の名前を表示
         System.out.println("成長後のモンスターは" + monster.GetMonsterName() + "です！");
 
-        
+        //テスト(GitHub確認用)
 
     }
 }
