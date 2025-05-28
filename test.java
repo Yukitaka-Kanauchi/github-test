@@ -13,6 +13,7 @@ public class test{
         System.out.println("成長後のモンスターは" + monster.GetMonsterName() + "です！");
 
         //テスト(GitHub確認用)
+        //テスト(GitHub確認用)
 
     }
 }
